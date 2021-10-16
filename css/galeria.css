@@ -26,6 +26,23 @@
     flex-direction: column;
 }
 
+.galeria-banner-title2 {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 20%;
+}
+
+.galeria-container2 {
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    flex-direction: column;
+}
+
 .galeria-container ul {
     display: flex;
     flex-wrap: wrap;
