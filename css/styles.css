@@ -324,6 +324,10 @@ footer .divisor {
     width: 100%;
 }
 
+footer .divisor2 {
+    width: 100%;
+}
+
 input,
 textarea {
     border: 2px solid #999;
