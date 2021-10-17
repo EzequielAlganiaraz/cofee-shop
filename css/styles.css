@@ -8,6 +8,8 @@
     src: url(../assests/fonts/Lobster.woff2);
 }
 
+-
+
 @font-face {
     font-family: Inter;
     src: url(../assests/fonts/Inter.ttf);
@@ -319,6 +321,10 @@ footer table th {
 }
 
 footer .divisor {
+    width: 100%;
+}
+
+footer .divisor2 {
     width: 100%;
 }
 
